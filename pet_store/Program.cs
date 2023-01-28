@@ -208,9 +208,6 @@ namespace pet_store
 						Console.WriteLine("----------------------------------------------------");
 						Console.WriteLine(" ");
 					}
-
-					//Reset the user's input number
-					userNumber = 0;
 				}
 
 				Console.WriteLine("Press 1 to add a product");
